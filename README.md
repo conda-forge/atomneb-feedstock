@@ -5,11 +5,13 @@ Home: https://github.com/atomneb/AtomNeb-py
 
 Package license: GPL-2.0-or-later
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/atomneb-feedstock/blob/master/LICENSE.txt)
 
 Summary: atomneb: Python Package for Atomic Data of Ionized Nebulae
 
+Development: https://github.com/atomneb/AtomNeb-py
 
+Documentation: https://pypi.python.org/pypi/atomneb
 
 Current build status
 ====================
