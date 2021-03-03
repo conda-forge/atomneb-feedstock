@@ -1,5 +1,5 @@
 {% set name = "atomneb" %}
-{% set version = "0.3.1" %}
+{% set version = "0.3.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/atomneb-{{ version }}.tar.gz
-  sha256: f33e244e6c7cd06bab975a3a2a5ec13aded54cc53379227def33dd465cf4a4fe
+  sha256: cf3e739be0685a04e6a0a953aba9dc0e294bd41be09884089fa156caa53189db
 
 build:
   number: 0
